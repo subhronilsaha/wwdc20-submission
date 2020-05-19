@@ -3,4 +3,4 @@ My submission for Apple WWDC 2020 Swift Student Challenge, a Morse Code App buil
 
 ## Screens
 
-<img src="screenshots/screen-01" width=300>
+<img src="screenshots/screen-01.png" width=300>
